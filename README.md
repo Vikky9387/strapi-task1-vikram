@@ -1,4 +1,4 @@
-# TASK-1: Strapi Local Setup (Windows 11)
+# TASK-1: Strapi Local Setup
 
 ## Objective
 
